@@ -1,0 +1,6 @@
+javalin:
+  name: Wallet Application
+  port: 7000
+  contextPath: /api/v1
+  exchangeRateService: https://api.exchangeratesapi.io/latest
+  countriesService: https://restcountries.eu/rest/v2/all
