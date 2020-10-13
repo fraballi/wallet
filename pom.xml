@@ -23,7 +23,7 @@
     <apache.http-client.version>4.5.12</apache.http-client.version>
     <apache.commons.version>3.9</apache.commons.version>
     <junit.jupiter.version>5.6.0</junit.jupiter.version>
-    <junit.version>4.13</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito.version>3.3.0</mockito.version>
     <unirest.version>3.4.00</unirest.version>
     <assertj.version>3.11.1</assertj.version>
